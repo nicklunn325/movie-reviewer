@@ -4,10 +4,7 @@ import { useEffect, useState } from "react";
 function MovieList() {
   // useState is used to store a variable or data that changes throughout the lifecycle of our program/component
   const [movies, setMovies] = useState([]);
-  //   const [reviews, setReviews] = useState([]);
-  //   const [user, setUser] = useState(null);
-  //   const [name, setName] = useState("Nick");
-  //   const [movieId, setMovieId] = useState(1);
+
   // useEffect executes callback function as soon as component mounts
   useEffect(getMovies, []);
 
@@ -17,10 +14,7 @@ function MovieList() {
       .then((moviesData) => {
         setMovies(moviesData);
         // movies = moviesData;
-        console.log(moviesData);
       });
-    // setMovies(moviesData)
-    // movies = moviesData
   }
 
   const renderMovies = movies.map((movie) => {
