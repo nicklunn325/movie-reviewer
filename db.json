@@ -1,0 +1,39 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "title": "Miracle",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZmK1fk0OcDBLAnp-oN1_ZzXEJX2_vJ8CLGf2upSLkbXXtHYNP",
+            "description":"When college coach Herb Brooks (Kurt Russell) is hired to helm the 1980 U.S. men's Olympic hockey team, he brings a unique and brash style to the ice. After assembling a team of hot-headed college all-stars, who are humiliated in an early match, Brooks unites his squad against a common foe, the heavily-favored Soviet team. As the U.S. squad tries to overcome insurmountable odds and win the gold medal, the team becomes a microcosm for American patriotism during the Cold War.",
+            "release":2004
+        },
+        {
+            "id":2,
+            "title": "Frozen",
+            "image":"https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg?region=0%2C0%2C540%2C810",
+            "description":"Frozen is a 2013 American computer-animated musical fantasy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. The 53rd Disney animated feature film, it is inspired by Hans Christian Andersen's fairy tale 'The Snow Queen'.",
+            "release":2013
+        },
+        {
+            "id":3,
+            "title": "Thor: Ragnarok",
+            "image":"https://flxt.tmsimg.com/assets/p12402331_p_v8_ax.jpg",
+            "description":"Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
+            "release":2017
+        },
+        {
+            "id":4,
+            "title": "The Alpinist",
+            "image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXE2_Y7vF-sMFWLz26EK7lF2x4dmHybumtF_YUgQ0HHSaaE6wr",
+            "description":"Marc-André Leclerc climbs alone, far from the limelight. On remote alpine faces, the free-spirited 23-year-old Canadian makes some of the boldest solo ascents in history. Yet, he draws scant attention. With no cameras, no rope, and no margin for error, Leclerc's approach is the essence of solo adventure.",
+            "release":2020
+        },
+        {
+            "id":5,
+            "title": "Toy Story",
+            "image":"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+            "description":"Woody (Tom Hanks), a good-hearted cowboy doll who belongs to a young boy named Andy (John Morris), sees his position as Andy's favorite toy jeopardized when his parents buy him a Buzz Lightyear (Tim Allen) action figure. Even worse, the arrogant Buzz thinks he's a real spaceman on a mission to return to his home planet. When Andy's family moves to a new house, Woody and Buzz must escape the clutches of maladjusted neighbor Sid Phillips (Erik von Detten) and reunite with their boy.",
+            "release":1995
+        }
+    ]
+}
